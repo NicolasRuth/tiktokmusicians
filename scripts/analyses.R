@@ -63,12 +63,14 @@ Diggs +
         axis.title.y = element_text(size = 16),
         plot.title = element_text(hjust = 0.5, size = 20))
 
-Likes <- ggplot(tiktokdata, aes(x = reorder(Name, -LikesPerVideo), LikesPerVideo, fill = Name))
+tiktokdata$LikesPerVideok <- tiktokdata$LikesPerVideo /1000000
+
+Likes <- ggplot(tiktokdata, aes(x = reorder(Name, -LikesPerVideok), LikesPerVideok, fill = Name))
 Likes +
   geom_col() +
-  ggtitle("Artists' average Likes per video") +
+  ggtitle("Artists' average Likes per video ") +
   xlab("Artists on TikTok") +
-  ylab("Likes per video") +
+  ylab("Likes per video (in million)") +
   theme_minimal() +
   theme(axis.text.x = element_text(angle = 45, size = 12),
         axis.text.y = element_text(size = 12),
