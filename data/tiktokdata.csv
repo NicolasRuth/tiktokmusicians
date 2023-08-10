@@ -1,21 +1,49 @@
-﻿Position;Name;uniqueId;language;Info;createTime;followerCount;followingCount; heart;heartCount; videoCount; diggCount;commentSetting; duetSetting; stitchSetting;LikesPerVideo
-1;Will Smith;willsmith;en;Same kid from West Philly.;1567819878;56700000;24;347200000;347200000;82;0;0;0;0;4234146
-2;Loren Gray;lorengray;en;angels;1435203834;52700000;226;2800000000;0;2843;0;0;0;0;984875
-3;Jason Derulo;jasonderulo;en;‚ÄúJalebi Baby‚Äù out now Booking Frank@23-management.com Fans text 9547585312;1450163607;46800000;15;1100000000;1100000000;705;0;0;0;0;1560284
-4;BTS;bts_official_bighit;en;This is Official TikTok for BTS. Î∞©ÌÉÑÏÜåÎÖÑÎã® Í≥µÏãù Ìã±ÌÜ°ÏûÖÎãàÎã§.;1568624114;36800000;0;620500000;620500000;43;275;0;0;0;14430233
-5;Lilhuddy;lilhuddy;en;America‚Äôs Sweetheart out now !!;1449121745;31300000;8555;1600000000;1600000000;4205;0;0;0;0;380499
-6;Selena Gomez;selenagomez;en;REVELACI√ìN is out now: http://smarturl.it/REVELACIONSG;1463644662;28400000;17;85900000;85900000;42;0;0;0;0;2045238
-7;Billie Eilish;billieeilish;en;19;1601803658;30500000;0;134400000;134400000;8;0;0;0;0;16800000
-8;Ariana Grande;arianagrande;en;positions out now ü§ç;1464051397;25100000;0;74800000;74800000;22;0;0;0;0;3400000
-9;Justin Bieber;justinbieber;en;JUSTICE the album out now;1575853058;21900000;11;75700000;75700000;24;0;0;0;0;3154167
-10;Karol Sevilla;karolsevillaokay;en;Cumple tu sue√±o ‚ù§Ô∏è So√±ar es gratis üòè;1526336793;21000000;140;210900000;210900000;280;0;0;0;0;753214
-11;McKenzie Ziegler;mackenzieziegler;en;Watch Mackenzie Ziegler's trending TikTok music, hashtags, songs and more. don‚Äôt take my tiktok seriously;1439354363;21000000;358;352800000;352800000;336;0;0;0;0;1050000
-12;Marshmello;marshmellomusic;en;SHOCKWAVE out now!;1474361662;22400000;289;182200000;182200000;376;2805;0;0;0;484574
-13;Black Pink;blackpinkofficial;en;üíñùêäùêûùêûùê© ùêÇùêöùê•ùê¶ ùêöùêßùêù ùêãùê®ùêØùêû ùêäùê©ùê®ùê©üíñ;1605851869;26500000;2177;224500000;224500000;48;0;0;0;0;4677083
-14;Lele Pons;lelepons;en;WATCH MY NEW MUSIC VIDEO FOR ‚ÄúAL LAU‚Äù !!!;1444979755;23800000;212;434400000;434400000;320;0;0;0;0;1357500
-15;Camilo;camilo;en;‚õ∫Ô∏èL A  T R I B Uüî• e s c u c h a ‚úãüèº‚ÄúMIS MANOS‚Äùü§öüèº';1547861922;23100000;54;259400000;259400000;301;0;0;0;0;861794
-16;Larra  ;larrayeeee;en; hi :) ;1441619593;24000000;910;695100000;695100000;679;0;0;0;0;1023711
-17;Jacob Sartorius;jacobsartorius;en;PRE SAVE MY NEW SONG ‚ÄúFOR REAL‚Äù DROPPING JUNE 30TH!!;1441580144;24100000;2647;1600000000;1600000000;1812;0;0;0;0;883002
-18;Jojo Siwa;itsjojosiwa;en;Hi TikTok!;1451212989;34300000;348;1100000000;1100000000;1219;0;0;0;1;902379
-19;Baby Ariel;babyariel;en;my instagram ü•∫ - babyariel;1446632715;35300000;345;1900000000;1900000000;2373;0;0;0;0;800674
-20;Kimberly Loaiza;kimberly.loaiza;en;Hola Linduras üôãüèª\u200d‚ôÄÔ∏è HABLEMOS EN MI INSTAGRAM: @Kimberly.Loaiza‚ú®;1535911087;46000000;136;2500000000;0;1292;0;0;0;0;1934985
+﻿Position;Name;uniqueId;Info;infoAboutMusic;createTime;followerCount;followingCount; heart; videoCount; diggCount;commentSetting; duetSetting; stitchSetting;LikesPerVideo;year
+1;Will Smith;willsmith;Same kid from West Philly.;0;1567819878;56700000;24;347200000;82;0;0;0;0;4234146;2021
+2;Loren Gray;lorengray;angels;0;1435203834;52700000;226;2800000000;2843;0;0;0;0;984875;2021
+3;Jason Derulo;jasonderulo;‚ÄúJalebi Baby‚Äù out now Booking Frank@23-management.com Fans text 9547585312;1;1450163607;46800000;15;1100000000;705;0;0;0;0;1560284;2021
+4;BTS;bts_official_bighit;This is Official TikTok for BTS. Î∞©ÌÉÑÏÜåÎÖÑÎã® Í≥µÏãù Ìã±ÌÜ°ÏûÖÎãàÎã§.;0;1568624114;36800000;0;620500000;43;275;0;0;0;14430233;2021
+5;Lilhuddy;lilhuddy;America‚Äôs Sweetheart out now !!;1;1449121745;31300000;8555;1600000000;4205;0;0;0;0;380499;2021
+6;Selena Gomez;selenagomez;REVELACI√ìN is out now: http://smarturl.it/REVELACIONSG;1;1463644662;28400000;17;85900000;42;0;0;0;0;2045238;2021
+7;Billie Eilish;billieeilish;19;0;1601803658;30500000;0;134400000;8;0;0;0;0;16800000;2021
+8;Ariana Grande;arianagrande;positions out now ü§ç;1;1464051397;25100000;0;74800000;22;0;0;0;0;3400000;2021
+9;Justin Bieber;justinbieber;JUSTICE the album out now;1;1575853058;21900000;11;75700000;24;0;0;0;0;3154167;2021
+10;Karol Sevilla;karolsevillaokay;Cumple tu sue√±o ‚ù§Ô∏è So√±ar es gratis üòè;0;1526336793;21000000;140;210900000;280;0;0;0;0;753214;2021
+11;McKenzie Ziegler;mackenzieziegler;Watch Mackenzie Ziegler's trending TikTok music, hashtags, songs and more. don‚Äôt take my tiktok seriously;0;1439354363;21000000;358;352800000;336;0;0;0;0;1050000;2021
+12;Marshmello;marshmellomusic;SHOCKWAVE out now!;1;1474361662;22400000;289;182200000;376;2805;0;0;0;484574;2021
+13;blackpinkofficial;bp_tiktok;üíñùêäùêûùêûùê© ùêÇùêöùê•ùê¶ ùêöùêßùêù ùêãùê®ùêØùêû ùêäùê©ùê®ùê©üíñ;0;1605851869;26500000;2177;224500000;48;0;0;0;0;4677083;2021
+14;Lele Pons;lelepons;WATCH MY NEW MUSIC VIDEO FOR ‚ÄúAL LAU‚Äù !!!;1;1444979755;23800000;212;434400000;320;0;0;0;0;1357500;2021
+15;Camilo;camilo;‚õ∫Ô∏èL A  T R I B Uüî• e s c u c h a ‚úãüèº‚ÄúMIS MANOS‚Äùü§öüèº';0;1547861922;23100000;54;259400000;301;0;0;0;0;861794;2021
+16;Larra  ;larrayeeee; hi :) ;0;1441619593;24000000;910;695100000;679;0;0;0;0;1023711;2021
+17;Jacob Sartorius;jacobsartorius;PRE SAVE MY NEW SONG ‚ÄúFOR REAL‚Äù DROPPING JUNE 30TH!!;1;1441580144;24100000;2647;1600000000;1812;0;0;0;0;883002;2021
+18;Jojo Siwa;itsjojosiwa;Hi TikTok!;0;1451212989;34300000;348;1100000000;1219;0;0;0;1;902379;2021
+19;Baby Ariel;babyariel;my instagram ü•∫ - babyariel;0;1446632715;35300000;345;1900000000;2373;0;0;0;0;800674;2021
+20;Kimberly Loaiza;kimberly.loaiza;Hola Linduras üôãüèª\u200d‚ôÄÔ∏è HABLEMOS EN MI INSTAGRAM: @Kimberly.Loaiza‚ú®;0;1535911087;46000000;136;2500000000;1292;0;0;0;0;1934985;2021
+21;Bella Poarch;bellapoarch;;0;;92600000;610;2300000000;586;0;0;0;0;3924914;2023
+22;Kimberly Loaiza;kimberly.loaiza;Hola Linduras 🙋🏻\u200d♀️\nBye Bye Tour 👇🏻;1;;76600000;343;4800000000;2542;0;0;0;0;1888276;2023
+23;Will Smith;willsmith;Same kid from West Philly.;0;;73600000;31;521800000;183;0;0;0;0;2851366;2023
+24;BTS;bts_official_bighit;This is Official TikTok for BTS\n👇Join #SevenDaysAWeek Challenge👇;0;;61700000;0;1200000000;131;535;0;0;0;9160305;2023
+25;Selena Gomez;selenagomez;;0;;59000000;73;593100000;196;0;0;0;0;3026020;2023
+26;Jason Derulo;jasonderulo;Sing Your Name Out Loud Out Now;1;;58200000;20;1300000000;873;0;0;0;0;1489117;2023
+27;Dixie;dixiedamelio;hey;0;;57000000;1981;3300000000;768;0;0;0;0;4296875;2023
+28;Spencer X;spencerx;Mouth Music Man 🗣🎶\nBusiness: spencerbeatbox@gmail.com;0;;55100000;9788;1300000000;1254;0;0;0;0;1036682;2023
+29;Loren Gray;lorengray;guilty out now\n\niamlorengraymgmt@gmail.com;1;;54200000;279;3000000000;3174;0;0;0;0;945179;2023
+30;BILLIE EILISH;billieeilish;;0;;49500000;47;271300000;25;0;0;0;0;10852000;2023
+31;Karol G;karolg;S91;0;;48300000;1;339700000;100;0;0;0;0;3397000;2023
+32;Jojo Siwa;itsjojosiwa;Hi Tiktok \n⬇️My TIKTOK SHOP IS OPEN ⬇️;0;;45800000;69;1800000000;2044;0;0;0;0;880626;2023
+33;blackpinkofficial;bp_tiktok;BLACKPINK IN YOUR AREA;0;;45800000;5;519000000;214;0;0;0;0;2425233;2023
+34;ROSÉ;roses_are_rosie;ON THE GROUND✨;0;;40000000;0;407700000;57;0;0;0;0;7152631;2023
+35;Shakira;shakira;Official account / perfil oficial;0;;37700000;60;245200000;236;0;0;0;0;1038983;2023
+36;BabyAriel;babyariel;snapchat: babyariel;0;;36200000;685;1900000000;2518;0;0;0;0;754567;2023
+37;Q Park;qpark;👇Listen to my song BABOSADAS!🔥👇;1;;36200000;5;426100000;254;0;0;0;0;1677559;2023
+38;KEEMOKAZI;keemokazi;Haley@madebyall.com\n“Walk In” OUT now 🚶🏻\u200d♂️⬇;1;;35000000;57;1800000000;2423;0;0;0;0;742880;2023
+39;JD Penttoja;jdpantonja;Bye Bye Tour ❤️\u200d🔥;1;;34800000;1;1300000000;955;0;0;0;0;1361256;2023
+40;Ruben Tuesta;rubentuestaok;MESSI PERDÓN 🎶👇😂;1;;32900000;80;1100000000;1401;0;0;0;0;785153;2023
+41;La Rosalia;rosalia;;0;;32500000;871;367800000;215;1724;0;0;0;1710697;2023
+42;Ariana Grande;arianagrande;currently somewhere over the rainbow;0;;32600000;5;155000000;104;0;0;0;0;1490384;2023
+43;Lele Pons;lelepons;;0;;31800000;459;701300000;487;0;0;0;0;1440041;2023
+44;Huddy;huddy;;0;;31600000;8357;1700000000;3957;0;0;0;0;429618;2023
+45;Bad Bunny;badbunny;.;0;;31400000;0;323200000;45;0;0;0;3;7182222;2023
+46;Kira Kosarin;kirakosarin;Thundermans movie otw ⚡️\ncreator of the Doritos Cool Ranch Papadia;0;;31200000;603;587500000;1434;0;0;0;0;409693;2023
+47;Naimdarrechi;naimdarrechilemete;No me den propina,no se como se quita \nbusinesswithnaim@7xlentertainment.com;0;;30500000;599;2600000000;3322;0;0;0;0;782661;2023
+48;Camilo;camilo;De Adentro Pa Afuera DELUXE EDITION con las voces de LA TRIBU ⛺️💐;1;;30400000;73;361800000;516;0;0;0;0;701162;2023
