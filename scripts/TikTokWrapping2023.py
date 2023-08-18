@@ -20,26 +20,10 @@ musicians2023 = ["bellapoarch", "kimberly.loaiza", "willsmith", "bts_official_bi
 async def user_example():
     async with TikTokApi() as api:
         await api.create_sessions(ms_tokens=[ms_token], num_sessions=1, sleep_after=3)
-        user = api.user("camilo")# insert user_ids of musicians in musicians2023
+        user = api.user("camilo") # insert user_ids of musicians in musicians2023
         user_data = await user.info()
         print(user_data)
 
 if __name__ == "__main__":
     asyncio.run(user_example())
 
-# data_2023 = []
-#
-# async def user_example(name):
-#     async with TikTokApi() as api:
-#         await api.create_sessions(ms_tokens=[ms_token], num_sessions=1, sleep_after=3)
-#         user = api.user(name)
-#         user_data = await user.info()
-#         return user_data
-#
-# for musician in musicians2023:
-#     if __name__ == "__main__":
-#         data_2023.append(asyncio.run(user_example()))
-#
-# tiktok_datat_2023 = pandas.DataFrame(data_2023)
-#
-# tiktok_datat_2023.to_csv('tiktokdata2023.csv')
